@@ -1,0 +1,8 @@
+PS C:\Users\Sharvari\github-final-project> git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+PS C:\Users\Sharvari\github-final-project> git merge bug-fix-typo
+Updating 5e28228..eb7d6c3
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
