@@ -1,0 +1,15 @@
+curl.exe -s https://api.github.com/repos/sharvariawadhane24-cloud/github-final-project
+
+{
+  "id": 1382862304,
+  "node_id": "R_kgDOUmzN4A",
+  "name": "github-final-project",
+  "full_name": "sharvariawadhane24-cloud/github-final-project",
+  "private": false,
+  "fork": true,
+  "parent": {
+    "id": 1050225087,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
